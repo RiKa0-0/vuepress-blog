@@ -1,13 +1,13 @@
 import { defineClientConfig } from "@vuepress/client";
-import { hasGlobalComponent } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-shared@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-shared/lib/client/index.js";
+import { hasGlobalComponent } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-shared@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-shared/lib/client/index.js";
 import { h } from "vue";
 
-import { useScriptTag } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+@vueuse+core@10.5.0_vue@3.3.4/node_modules/@vueuse/core/index.mjs";
-import Badge from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import { useScriptTag } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+@vueuse+core@10.5.0_vue@3.3.4/node_modules/@vueuse/core/index.mjs";
+import Badge from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
-import "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-components@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {

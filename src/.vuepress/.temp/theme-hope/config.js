@@ -1,16 +1,16 @@
 import { defineClientConfig } from "@vuepress/client";
-import { VPLink } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-shared@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-shared/lib/client/index.js";
+import { VPLink } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-shared@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-shared/lib/client/index.js";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineAutoCatalogIconComponent } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-auto-catalog@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
-import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
-import "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
-import { GlobalEncrypt, LocalEncrypt } from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
-import Slide from "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-md-enhance@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
+import { defineAutoCatalogIconComponent } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-auto-catalog@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
+import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
+import "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
+import { GlobalEncrypt, LocalEncrypt } from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import Slide from "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-md-enhance@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
 
-import "E:/workspace/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "C:/Users/muri0/WebstormProjects/vuepress-blog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.238_vuepress@2.0.0-beta.67/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineAutoCatalogIconComponent(HopeIcon);
 

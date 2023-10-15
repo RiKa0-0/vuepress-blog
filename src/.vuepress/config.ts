@@ -4,18 +4,18 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  locales: {
-    "/": {
-      lang: "en-US",
-      title: "Blog Demo",
-      description: "A blog demo for vuepress-theme-hope",
-    },
-    "/zh/": {
-      lang: "zh-CN",
-      title: "博客演示",
-      description: "vuepress-theme-hope 的博客演示",
-    },
-  },
+  // locales: {
+  //   "/": {
+  //     lang: "zh-CN",
+  //     title: "日暮之地",
+  //     description: "暮里写的些许文集",
+  //   },
+  //   "/zh/": {
+  //     lang: "zh-CN",
+  //     title: "日暮之地",
+  //     description: "暮里写的些许文集",
+  //   }
+  // },
 
   theme,
 
