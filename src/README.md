@@ -39,5 +39,5 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 日暮夕山无限好
+footer: 日止暮，岁知暮
 ---
