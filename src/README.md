@@ -4,6 +4,7 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
+bgImage: /assets/bg.jpg
 heroText: 暮里文集
 heroFullScreen: true
 tagline: 大数据 & AI & 架构 & 生活

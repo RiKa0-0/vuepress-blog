@@ -13,8 +13,6 @@ export const pagesData = {
   "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
   // path: /demo/
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /posts/apple/1.html
   "v-67b8c712": () => import(/* webpackChunkName: "v-67b8c712" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/posts/apple/1.html.js").then(({ data }) => data),
   // path: /posts/apple/2.html

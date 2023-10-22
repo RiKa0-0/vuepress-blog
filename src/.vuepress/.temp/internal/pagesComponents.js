@@ -15,8 +15,6 @@ export const pagesComponents = {
   "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/page.html.vue")),
   // path: /demo/
   "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/index.html.vue")),
-  // path: /en/
-  "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/en/index.html.vue")),
   // path: /posts/apple/1.html
   "v-67b8c712": defineAsyncComponent(() => import(/* webpackChunkName: "v-67b8c712" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/posts/apple/1.html.vue")),
   // path: /posts/apple/2.html

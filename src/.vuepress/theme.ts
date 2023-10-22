@@ -14,8 +14,8 @@ export default hopeTheme({
   },
   iconAssets: "fontawesome-with-brands",
   logo: "logo.svg",
-  // logo: "http://eb118-file.cdn.bcebos.com/upload/301083B150A1C45C8484410BCAC43F09?x-bce-process=style/wm_ai",
   repo: "RiKa0-0/vuepress-blog",
+  // repo: "RiKa0-0",
 
   docsDir: "src",
 
