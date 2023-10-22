@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /muri.webp
-heroText: 日暮之地（Twilight land）
+heroImage: /logo.svg
+heroText: 暮里文集
 heroFullScreen: true
-tagline: 大数据 & AI & 架构 & 生活 (Big data & AI & Architecture  &Life)
+tagline: 大数据 & AI & 架构 & 生活
 projects:
   - icon: project
     name: 项目名称

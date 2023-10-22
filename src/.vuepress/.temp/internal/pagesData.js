@@ -3,8 +3,6 @@ export const pagesData = {
   "v-184f4da6": () => import(/* webpackChunkName: "v-184f4da6" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/intro.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /slides.html
-  "v-2e3eac9e": () => import(/* webpackChunkName: "v-2e3eac9e" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/slides.html.js").then(({ data }) => data),
   // path: /demo/disable.html
   "v-4e65ec78": () => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/disable.html.js").then(({ data }) => data),
   // path: /demo/encrypt.html
@@ -15,8 +13,6 @@ export const pagesData = {
   "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
   // path: /demo/
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
-  // path: /en/intro.html
-  "v-5aa3d8ba": () => import(/* webpackChunkName: "v-5aa3d8ba" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/en/intro.html.js").then(({ data }) => data),
   // path: /en/
   "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/Users/muri0/WebstormProjects/vuepress-blog/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /posts/apple/1.html

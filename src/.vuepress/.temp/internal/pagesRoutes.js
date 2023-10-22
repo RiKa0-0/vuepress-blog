@@ -1,13 +1,11 @@
 export const pagesRoutes = [
   ["v-184f4da6","/intro.html",{"v":"/assets/images/cover3.jpg","e":"<h1> 介绍页</h1>\n<p>将你的个人介绍和档案放置在此处。</p>\n","y":"a","t":"介绍页","i":"circle-info"},[":md"]],
   ["v-8daa1a0e","/",{"y":"h","t":"博客主页","i":"home"},["/README.md"]],
-  ["v-2e3eac9e","/slides.html",{"e":"<!-- markdownlint-disable MD024 MD033 MD051 -->\n","y":"s","t":"幻灯片页","i":"person-chalkboard"},[":md"]],
   ["v-4e65ec78","/demo/disable.html",{"c":["使用指南"],"g":["禁用"],"e":"<p>你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。</p>\n","y":"a","t":"布局与功能禁用","i":"gears","O":3},[":md"]],
   ["v-c151bf32","/demo/encrypt.html",{"c":["使用指南"],"g":["文章加密"],"n":true,"y":"a","t":"密码加密的文章","i":"lock"},[":md"]],
   ["v-438ffe52","/demo/markdown.html",{"c":["使用指南"],"g":["Markdown"],"e":"<p>VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。</p>\n<p>你应该创建和编写 Markdown 文件，以便 VuePress 可以根据文件结构将它们转换为不同的页面。</p>\n","y":"a","t":"Markdown 展示","i":"fab fa-markdown","O":2},[":md"]],
   ["v-6e19edb7","/demo/page.html",{"a":"Ms.Hope","d":1577836800000,"l":"January 1, 2020","c":["使用指南"],"g":["页面配置","使用指南"],"u":true,"v":"/assets/images/cover1.jpg","e":"<p><code>more</code> 注释之前的内容被视为文章摘要。</p>\n","y":"a","t":"页面配置","i":"file","O":1},[":md"]],
   ["v-1473bf53","/demo/",{"c":["使用指南"],"e":"<h2> 目录</h2>\n<ul>\n<li>\n<p><a href=\"/demo/markdown.html\" target=\"blank\">Markdown 展示</a></p>\n</li>\n<li>\n<p><a href=\"/demo/page.html\" target=\"blank\">页面展示</a></p>\n</li>\n<li>\n<p><a href=\"/demo/disable.html\" target=\"blank\">禁用展示</a></p>\n</li>\n<li>\n<p><a href=\"/demo/encrypt.html\" target=\"blank\">加密展示</a></p>\n</li>\n</ul>","y":"a","t":"主要功能与配置演示","i":"laptop-code"},["/demo/README.md"]],
-  ["v-5aa3d8ba","/en/intro.html",{"v":"/assets/images/cover3.jpg","e":"<h1> Intro Page</h1>\n<p>Place your introduction and profile here.</p>\n","y":"a","t":"Intro Page","i":"circle-info"},[":md"]],
   ["v-2d0a870d","/en/",{"y":"h","t":"Blog Home","i":"home"},["/en/README.md"]],
   ["v-67b8c712","/posts/apple/1.html",{"d":1640995200000,"l":"January 1, 2022","c":["苹果"],"g":["红","大","圆"],"e":"<h1> 苹果 1</h1>\n<h2> 标题 2</h2>\n<p>这里是内容。</p>\n<h3> 标题 3</h3>\n<p>这里是内容。</p>\n","y":"a","t":"苹果 1","i":"pen-to-square"},[":md"]],
   ["v-696d9fb1","/posts/apple/2.html",{"d":1641081600000,"l":"January 2, 2022","c":["苹果"],"g":["红","大","圆"],"e":"<h1> 苹果 2</h1>\n<p>一个被星标了的苹果文章。</p>\n","y":"a","t":"苹果 2","i":"pen-to-square"},[":md"]],
